@@ -1,0 +1,19 @@
+﻿# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Gurobi license
+gurobi.lic
+
+# Environment folders
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
